@@ -1,6 +1,6 @@
 A decoration mod for people who are looking for a more advanced world.
 
-have you ever felt like your world is hard to get around?, just add a freeway, makes travel very easy and quick.
+Have you ever felt like your world is hard to get around?, just add a freeway, makes travel very easy and quick.
 
 This mod adds only a few blocks so far but makes roads look a lot better with just the few.
 
